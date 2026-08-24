@@ -56,24 +56,6 @@ I work across the full software development lifecycle — from understanding bus
 
 ---
 
-## Tools & Integrations
-
-Git · GitHub · GitLab · Jira · ClickUp · REST APIs · Stripe · Twilio · AWS S3 · Cloudflare
-
----
-
-## Education
-
-- Full-Stack Development — Building end-to-end web applications and REST APIs
-- System Architecture — Designing application structure, database models, APIs, and integrations
-- Backend Development — Laravel, PHP, Node.js, Express.js
-- Frontend Development — Vue.js, React.js, Next.js, JavaScript, TypeScript
-- Third-Party Integrations — Payment gateways, communication APIs, cloud services, and external APIs
-- Performance & Scalability — Database optimization, API performance, background jobs, caching, and scalable application design
-- Technical Leadership — Code reviews, mentoring, estimation, task breakdown, and technical decision-making
-
----
-
 <div align="center">
 
 📫 **Open to conversations about full-stack architecture, technical leadership, and interesting problems.**
