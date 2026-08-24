@@ -14,14 +14,16 @@
 
 I work across the full software development lifecycle — from understanding business requirements and designing technical solutions to development, code review, deployment, and ongoing improvements.
 
-8+ years of professional experience in full-stack web development
-20+ client projects delivered across different business domains
-Technical leadership across multiple projects and development teams
-Full-stack development using Laravel, Vue.js, React.js, Next.js, and Node.js
-System design and architecture for scalable web applications and APIs
-Client and stakeholder collaboration to translate business requirements into technical solutions
-Code reviews and mentoring for junior and mid-level developers
-Estimation, task breakdown, sprint planning, and delivery coordination
+- 8+ years of professional experience in full-stack web development
+- 20+ client projects delivered across different business domains
+- Technical leadership across multiple projects and development teams
+- Full-stack development using Laravel, Vue.js, React.js, Next.js, and Node.js
+- System design and architecture for scalable web applications and APIs
+- Client and stakeholder collaboration to translate business requirements into technical solutions
+- Code reviews and mentoring for junior and mid-level developers
+- Estimation, task breakdown, sprint planning, and delivery coordination
+
+
 ---
 
 ## Tech Stack
@@ -39,7 +41,6 @@ Estimation, task breakdown, sprint planning, and delivery coordination
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Database**
 
